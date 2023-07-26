@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KG-master.iml" filepath="$PROJECT_DIR$/.idea/KG-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch/.idea/pytorch.iml" filepath="$PROJECT_DIR$/../pytorch/.idea/pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mmm/.idea/test01.iml" filepath="$PROJECT_DIR$/../mmm/.idea/test01.iml" />
+    </modules>
+  </component>
+</project>
